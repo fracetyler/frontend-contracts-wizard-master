@@ -1,0 +1,19 @@
+.calc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calcBlock {
+  text-align: center;
+  margin: 0 25px;
+}
+
+.calcVal {
+  font-size: 24px;
+}
+
+.calcLabel {
+  font-size: 12px;
+  margin-top: 10px;
+}

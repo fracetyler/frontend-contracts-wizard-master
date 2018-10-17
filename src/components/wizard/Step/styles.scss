@@ -1,0 +1,24 @@
+.step {
+  text-align: center;
+  width: 150px;
+  cursor: default;
+  text-transform: capitalize;
+}
+
+.passed {
+  color: #137cbd;
+  cursor: pointer;
+}
+
+.unavailable {
+  color: #a7b6c2;
+}
+
+.error {
+  color: #db3737;
+  cursor: pointer;
+}
+
+.icon {
+  margin-bottom: 10px;
+}
